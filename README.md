@@ -106,7 +106,7 @@ These insights support building a real recommendation engine.
 ---
 
 ## 👨‍🎓 Prepared For  
-**Assignment Submission — Data Analytics / Business Intelligence Assessment**
+Data Analytics / Business Intelligence Assessment**
 
 Prepared to demonstrate:  
 ✔ Analytical thinking  
